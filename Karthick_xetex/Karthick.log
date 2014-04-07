@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.8.5)  7 APR 2014 00:33
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2012.8.5)  7 APR 2014 14:24
 entering extended mode
  %&-line parsing enabled.
 **Karthick.tex
@@ -125,15 +125,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 
-]
-Overfull \vbox (5.34778pt too high) has occurred while \output is active []
-
-
-[2] [3] [4] (./Karthick.aux) ) 
+] [2] [3] [4]
+(./Karthick.aux) ) 
 Here is how much of TeX's memory you used:
  961 strings out of 495724
  12437 string characters out of 1189347
- 68329 words of memory out of 3000000
+ 73329 words of memory out of 3000000
  4127 multiletter control sequences out of 15000+50000
  6408 words of font info for 27 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
